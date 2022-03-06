@@ -1,5 +1,5 @@
 - 👋 Hello World! I'm @paulociano
-- 👀 I’m interested in developing projects with C#, .NET, JavaScript e React.
+- 👀 I’m interested in developing projects with C#, .NET, JavaScript
 - 🌱 I’m currently learning Techology of Information at FATEC
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me: paulociano@gmail.com or @paulograciano on Instagram.
+- 📫 How to reach me: paulociano@gmail.com or @paulograciano on Instagram
