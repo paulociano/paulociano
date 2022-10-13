@@ -1,5 +1,5 @@
 - 👋 Hello World! I'm @paulociano
-- 👀 I’m interested in developing projects with C#, .NET, JavaScript
+- 👀 FrontEnd Developer, studying BackEnd 
 - 💻 I’m currently learning Techology of Information at FATEC
 - 💞️ I’m looking to collaborate on different projects
 - 📫 Email: paulociano@gmail.com
