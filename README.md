@@ -1,5 +1,4 @@
 - 👋 Hello World! I'm @paulociano
-- 👀 FrontEnd Developer, studying BackEnd 
 - 💻 I’m currently learning Techology of Information at FATEC
-- 💞️ I’m looking to collaborate on different projects
+- 🍫  I'm also a Food Engineer
 - 📫 Email: paulociano@gmail.com
