@@ -1,4 +1,4 @@
 - 👋 Hello World! I'm @paulociano
-- 💻 I’m currently learning Techology of Information at FATEC
-- 🍫  I'm also a Food Engineer
+- 💻 Programmer
+- 🍫  Food Engineer
 - 📫 Email: paulociano@gmail.com
