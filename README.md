@@ -2,3 +2,4 @@
 - 💻 Programmer
 - 🍫  Food Engineer
 - 📫 Email: paulociano@gmail.com
+- Financial Consulting
