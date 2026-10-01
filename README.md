@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Paulo Graciano — Tech, AI, Business & Finance" />
-
-<br />
-
-<img src="https://avatars.githubusercontent.com/u/45455561?v=4" width="150" alt="Paulo Graciano" />
+<img src="./assets/profile-banner.png.png" width="100%" alt="Paulo Graciano — Tecnologia, IA, Negócios e Finanças" />
 
 <br />
 
