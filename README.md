@@ -1,8 +1,8 @@
 <div align="center">
 
-# Paulo Graciano
+<img src="./assets/profile-banner.svg" width="100%" alt="Paulo Graciano — Tech, AI, Business & Finance" />
 
-### Building products at the intersection of technology, AI, business & finance.
+<br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-paulociano-181717?style=for-the-badge&logo=github)](https://github.com/paulociano)
 [![Email](https://img.shields.io/badge/Email-paulociano%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulociano@gmail.com)
