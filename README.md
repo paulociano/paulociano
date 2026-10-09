@@ -24,56 +24,86 @@ My work lives at the intersection of **software, artificial intelligence, produc
 
 ## Featured projects
 
+A selection of public projects currently available on GitHub, spanning AI workflows, productivity, learning and interactive experiences.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [Skill Arsenal](https://github.com/paulociano/skill-arsenal)
 
-An operational library of reusable **skills, methods and stacks** for research, writing, design, development, analysis and management.
+A reusable operational library of **AI skills, methods, and stacks**, designed to turn repeatable workflows into practical capabilities.
 
-**AI · Workflows · Knowledge Systems**
+`AI workflows` · `Systems` · `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### [Plural](https://github.com/paulociano/PluralApp)
+### [MON 門](https://github.com/paulociano/mon)
 
-A full-stack platform for structured debates with interactive argument graphs, community features, gamification and AI-assisted discussion.
+An adaptive PWA for Portuguese-speaking learners of Japanese, with spaced repetition, kanji, listening, reading, and practice missions.
 
-**Full Stack · AI · Product**
+`JavaScript` · `PWA` · `Learning`
+
+[Live preview](https://paulociano.github.io/mon/landing/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [FarmaFast](https://github.com/paulociano/farmafast)
+### [Grazi](https://github.com/paulociano/grazi)
 
-A multiplatform Flutter prototype exploring the digital pharmacy experience, including products, pharmacies, prescriptions, reminders and donations.
+A privacy-focused Windows desktop assistant that uses local language models, optional voice, and permission-based file and application actions.
 
-**Flutter · Dart · Multiplatform**
+`Python` · `Local AI` · `Desktop`
 
 </td>
 <td width="50%" valign="top">
 
-### [More projects →](https://github.com/paulociano?tab=repositories)
+### [Want](https://github.com/paulociano/want)
 
-Games, experiments, prototypes and applications built while exploring different technologies and product ideas.
+A product experiment to make local wishes and unmet needs visible as shareable signals of demand.
 
-**Build · Learn · Iterate**
+`Product` · `Web` · `Community`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Bateria Digital](https://github.com/paulociano/bateria-digital)
+
+A browser-based drum kit with nine pads, keyboard shortcuts, a sequencer and BPM controls.
+
+`JavaScript` · `Web Audio` · `Music`
+
+[Try it](https://paulociano.github.io/bateria-digital/)
+
+</td>
+<td width="50%" valign="top">
+
+### [Piano Digital](https://github.com/paulociano/piano-digital)
+
+An interactive digital piano built for playing directly in the browser.
+
+`JavaScript` · `Interactive Web` · `Music`
+
+[Try it](https://paulociano.github.io/piano-digital/)
 
 </td>
 </tr>
 </table>
+
+[Explore all public repositories →](https://github.com/paulociano?tab=repositories)
 
 ## Tech & tools
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript)
-![Flutter](https://img.shields.io/badge/Flutter-171717?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-171717?style=for-the-badge&logo=dart)
+![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github)
 ![AI](https://img.shields.io/badge/AI_Workflows-171717?style=for-the-badge&logo=openai&logoColor=white)
